@@ -1,0 +1,42 @@
+.contain {
+    width: 884px;
+    margin: auto;
+}
+
+.judul {
+    width: 775px;
+    height: 200px;
+    background-color: papayawhip;
+    border: 2px solid black;
+    text-align: justify;
+}
+
+.main {
+    height: 305px;
+    width: 200px;
+    background-color: yellow;
+    box-sizing: border-box;
+    float: left;
+    border: 2px solid black;
+}
+
+
+
+.sidebar {
+    background-color: aqua;
+    margin-right: 105px;
+    width: 574px;
+    height: 300px;
+    float: right;
+    border: 2px solid black;
+    position: relative;
+}
+
+
+.footer {
+    width: 775px;
+    height: 100px;
+    background-color: gray;
+    display: inline-block;
+    border: 2px solid black;
+}
