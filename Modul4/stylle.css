@@ -1,0 +1,94 @@
+
+.contain {
+    width: 800px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+.header {
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.header .judul {
+    font-size: 40px;
+    font-weight: bold ;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.header a{
+    text-decoration: none;
+    color: darkmagenta;  
+    padding: 3px;
+}
+
+.header a:hover {
+    text-emphasis-color:rgb(15, 150, 196);
+    color: rgb(153, 26, 26);
+}
+
+.gambar {
+    height: 280px;
+    background-image: url(https://cdn-image.hipwee.com/wp-content/uploads/2016/12/hipwee-love-3-750x422.jpg);
+    background-size: cover;
+    background-position: 0 -90px;
+    border-top: 5px solid rgb(155, 6, 6);
+    border-bottom: 5px solid rgb(155, 6, 6) ;
+
+}
+
+.isi {
+    padding: 10px;
+}
+
+.isi h2{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.isi .penulis {
+    font-size: 13px;
+    font-style: italic;
+    color: rosybrown;
+    margin-top: -8px;
+}
+
+.isi .penulis a{
+    text-decoration: none;
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+.isi .penulis a:hover {
+    text-emphasis-color:rgb(15, 150, 196);
+    color: rgb(153, 26, 26);
+}
+
+.isi p {
+    margin-bottom: 20px;
+}
+
+.isi .isikonten{
+    margin-bottom: 28px;
+    font-size: 18px;
+}
+
+.kaki {
+    background-color: black;
+    padding: 10px;
+}
+
+.kaki .copy {
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 16px;
+}
+
+
+
