@@ -1,0 +1,18 @@
+<?xml version="1.0" encode="utf-8" ?>
+<dataDiri>
+    <nama>
+        <awal> Edi </awal>
+        <akhir> Kurniawan </akhir>
+    </nama>
+    <jenisKelamin> Laki-laki </jenisKelamin>
+
+    <alamat>
+        <desa> Korpri Jaya </desa>
+        <kecamatan> Sukarame </kecamatan>
+        <kabupaten> bandar Lampung </kabupaten>
+    </alamat>
+    <sosialMedia>
+        <facebook> Edi Kurniawan   </facebook>
+        <instagram> edi.kurniawan27 </instagram>
+    </sosialMedia>
+<dataDiri>

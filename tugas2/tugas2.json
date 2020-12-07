@@ -1,0 +1,18 @@
+{
+    "datadiri"{
+        "nama"{
+            "awal":"Edi",
+            "akhir" : "Kurniawan",
+        }
+        "jenisKelamin" : "laki-laki",
+        "alamat"{
+            "desa" : "Korpri jaya",
+            "kecamatan" : "sukaRAMA",
+            "kabipaten" : "bandarLampung",
+        }
+        "sosialMedia"{
+            "facebook" : "Edi Kurniawan",
+            "instagram" : "edi.kurnawan27",
+        }
+    }
+}
